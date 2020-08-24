@@ -31,4 +31,24 @@
     .wrapper{
         width: 150px;
     }
+
+    .left{
+        width: 150px
+    }
+
+    .center-upper{
+        width: 150px
+    }
+
+    .right-upper{
+        width: 150px
+    }
+
+    .center-lower{
+        width: 150px
+    }
+
+    .right-lower{
+        width: 150px
+    }
 }
