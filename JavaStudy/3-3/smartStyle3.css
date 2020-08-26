@@ -1,0 +1,42 @@
+@media screen and (max-width: 479px) {
+    .wrapper{
+        width: 200px;
+    }
+
+    .header{
+        height: 200px;
+    }
+
+    .header-box{
+        height: 160px;
+        width: 60px;
+        margin-right: 70px;
+        margin-left: 70px;
+    }
+
+    .left{
+        width: 200px;
+    }
+
+    .right{
+        width: 200px;
+    }
+
+    .w-right-upper{
+        float: left;
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+
+    .w-right-center{
+        float: left;
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+
+    .w-right-lower{
+        float: left;
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+}
