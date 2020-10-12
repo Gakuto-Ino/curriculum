@@ -105,14 +105,8 @@ public class ExException {
  */
   // ここへ記述
  private static void mis() throws NullPointerException {
-	 Object file = null;
-	 try {
-		 if(file == null)
 			 throw new NullPointerException(CONST_MSG_NULLPO);
-	}catch(NullPointerException e) {
-		printException(e);
 	}
- }
  /**
  * 例外処理のメッセージを出力
  *
